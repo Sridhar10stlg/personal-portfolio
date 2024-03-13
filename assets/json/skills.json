@@ -1,0 +1,39 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
+    },
+    {
+        "name": "AI",
+        "icon": "https://icons.iconarchive.com/icons/artdesigner/adobe-cs5/256/ai-icon.png"
+    }
+
+]
